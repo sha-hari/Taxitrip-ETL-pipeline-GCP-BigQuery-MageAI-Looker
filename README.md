@@ -3,7 +3,7 @@
 ## Description: 
 Buiding an ETL pipiline to transform and analyze taxi rides data using Google Cloud Platform
 
-## Services used:
+## Technology used:
 - Cloud: GCP
 - Storage: Cloud Storage
 - ETL: Mage AI
