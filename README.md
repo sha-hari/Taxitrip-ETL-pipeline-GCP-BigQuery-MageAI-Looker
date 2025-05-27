@@ -1,4 +1,4 @@
-# Taxirides-ETL-pipeline-GCP-Mage-Looker
+# Taxirides data ETL pipeline with MageAI on GCP 
 
 ## Description: 
 Buiding an ETL pipeline to transform and analyze taxi rides data using Google Cloud Platform
@@ -7,6 +7,7 @@ Buiding an ETL pipeline to transform and analyze taxi rides data using Google Cl
 - Cloud: GCP
 - Storage: Cloud Storage
 - ETL: Mage AI
+- Scripts: Python
 - Environment: Jupyter Notebook 
 - Vizualization: Looker Studio
   
