@@ -1,7 +1,7 @@
 # Taxirides-ETL-pipeline-GCP-Mage-Looker
 
 ## Description: 
-Buiding an ETL pipiline to transform and analyze taxi rides data
+Buiding an ETL pipiline to transform and analyze taxi rides data using Google Cloud Platform
 
 ## Services used:
 - Cloud: GCP
